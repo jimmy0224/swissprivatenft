@@ -12,7 +12,7 @@ const config: HardhatUserConfig = {
   networks: {
     swisstronik: {
       url: 'https://json-rpc.testnet.swisstronik.com/',
-      accounts: [``], //your privatekey
+      accounts: [`888888888`], //your privatekey
     },
   },
   etherscan: {
